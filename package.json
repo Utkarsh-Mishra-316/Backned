@@ -14,5 +14,8 @@
     "code"
   ],
   "author": "Utkarsh",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemo": "^1.0.0"
+  }
 }
